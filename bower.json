@@ -1,0 +1,23 @@
+{
+  "name": "angular-input-file-type-filter",
+  "description": "A type filter for file inputs",
+  "main": "src/angular-input-file-type-filter.js",
+  "authors": [
+    "Juan Cruz Talco <juancruztalco@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "input",
+    "type"
+  ],
+  "homepage": "https://github.com/sursonico/angular-input-file-type-filter",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
